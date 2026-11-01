@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Details
-- **Name:** Ausaji ThankGod Manyo
-- **Matriculation Number:** 25/16454
-- **Programme:** Software Engineering
+- **Name:** Nwankwo Odinma Emmanuel
+- **Matriculation Number:** 25/16677
+- **Programme:** Cybersecurity
 - **Course Code:** COS 201
 
 ---
